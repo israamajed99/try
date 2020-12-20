@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="phone_name">
+        <item>Iphone 10</item>
+        <item>Iphone 12</item>
+        <item>S 10</item>
+        <item>Ulto</item>
+        <item>Redmi</item>
+        <item>Redmi 8 pro</item>
+        <item>Redmi</item>
+        <item>Oopo</item>
+        <item>Note 10</item>
+        <item>Nokia</item>
+    </string-array>
+</resources>
